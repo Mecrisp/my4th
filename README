@@ -1,0 +1,12 @@
+
+My own small tools for the My4TH discrete CPU Forth computer:
+
+  http://mynor.org/my4th.htm
+
+You can upload the code with the command
+
+ ./my4th exec /dev/ttyUSB0 file insight.fs -t
+
+Have a nice time exploring this weird and wonderful machine!
+
+Tested with my4th 1.1 8 MHz EPROM image.
